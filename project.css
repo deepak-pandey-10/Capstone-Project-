@@ -14,10 +14,7 @@ justify-content: space-between;
 font-size: 42px;
 font-weight: 400;
 line-height: 42px;
-letter-spacing: -0.04em;
 text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
 font-family: 'Playball', cursive;
 }
 .pagelinks{
@@ -25,10 +22,7 @@ font-family: Lexend Exa;
 font-size: 28px;
 font-weight: 300;
 line-height: 32px;
-letter-spacing: -0.01em;
 text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
 display: flex;
 gap: 32px;
 }
@@ -59,10 +53,7 @@ gap: 32px;
     font-size: 120px;
     font-weight: 300;
     line-height: 120px;
-    letter-spacing: -0.02em;
     text-align: center;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
 }
 .img1{
     height: 672px;
@@ -121,8 +112,6 @@ gap: 32px;
     font-weight: 400;
     line-height: 24px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
 }
 .ptext2{
     width: 416px;
@@ -132,8 +121,6 @@ gap: 32px;
     font-weight: 400;
     line-height: 24px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     color: #00000099;
 
 
@@ -150,10 +137,7 @@ gap: 32px;
     font-size: 48px;
     font-weight: 300;
     line-height: 52px;
-    letter-spacing: -0.01em;
     text-align: center;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     width: 900px;
     height: 260px;
     max-width: 900px;
@@ -187,20 +171,14 @@ gap: 32px;
     font-size: 64px;
     font-weight: 300;
     line-height: 68px;
-    letter-spacing: -0.02em;
     text-align: center;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
 }
 .ctext2{
     font-family: Newsreader;
     font-size: 24px;
     font-weight: 400;
     line-height: 32px;
-    letter-spacing: -0.005em;
     text-align: center;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
 }
 .cbutton{
     width: 112px;
@@ -213,10 +191,7 @@ gap: 32px;
     font-family: Lexend Exa;
     font-size: 20px;
     font-weight: 400;
-    line-height: 24px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     height: 24px;
     width: 112px;
     color: #FFFFFF;
@@ -250,10 +225,7 @@ gap: 32px;
     font-size: 24px;
     font-weight: 400;
     line-height: 32px;
-    letter-spacing: -0.005em;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     width: 648px;
     height: 154px;
 }
@@ -278,8 +250,6 @@ gap: 32px;
     line-height: 32px;
     letter-spacing: -0.01em;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     width: 305px;
     height: 32px;
     color: #00000099;
@@ -298,8 +268,6 @@ gap: 32px;
     font-weight: 400;
     line-height: 24px;
     text-align: left;
-    text-underline-position: from-font;
-    text-decoration-skip-ink: none;
     width: 138px;
     height: 24px;
 }
