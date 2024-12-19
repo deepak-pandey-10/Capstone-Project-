@@ -271,3 +271,19 @@ gap: 32px;
     width: 138px;
     height: 24px;
 }
+.home:hover{
+    color: #e45f58;
+    text-decoration: underline;
+}
+.projects:hover{
+    color: #e45f58;
+    text-decoration: underline;
+}
+.about:hover{
+    color: #e45f58;
+    text-decoration: underline;
+}
+.contect:hover{
+    color: #e45f58;
+    text-decoration: underline;
+}
